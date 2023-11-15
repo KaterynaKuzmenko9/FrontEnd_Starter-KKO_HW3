@@ -1,0 +1,58 @@
+.block {
+  background: gold;
+  width: 800px;
+  height: 200px;
+
+}
+
+
+.site1 {
+  background: blue;
+  border: solid black;
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  text-align: center;
+  display: inline-block;
+  
+
+  
+
+}
+
+
+.site2 {
+  background: red;
+  border: solid black;
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+}
+
+.site3 {
+  background: pink;
+  border: solid black;
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+}
+
+.site4{
+ 
+    background: aqua;
+    border: solid black;
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    display: inline-block;
+    text-align: center;
+  }
+
+
+
+
+

@@ -1,0 +1,14 @@
+
+.block{
+    background: white;
+    padding: 20px;
+    text-align: right;
+    border: solid grey 5px;
+}
+
+.text{
+    background: lightgray;
+    padding: 20px;
+    display: inline-block;
+    text-align: right;
+}
